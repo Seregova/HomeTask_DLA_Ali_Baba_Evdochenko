@@ -1,0 +1,5 @@
+Hasan,1000000
+Ahmed,150000
+Mustafa,500000
+Cassim,100000
+Muhammad,750000
